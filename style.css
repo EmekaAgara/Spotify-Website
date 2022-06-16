@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: black;
+    padding: 10px;
+}
+
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.right-side{
+    display: flex;
+    
+}
+
+.right-side img{
+    display: flex;
+    align-self: center;
+    
+}
+
+.pink-section{
+    text-align: center;
+    background:#FFCDD2;
+    padding: 120px 30px 120px 30px;
+}
+
+.pink-section h1{
+    margin-bottom: 20px;
+    color: #D83519;
+}
+
+.pink-section button{
+    margin-bottom: 20px;
+    background-color: #D83519;
+    color: white;
+    border: none;
+    padding: 18px 35px;
+    border-radius: 25px;
+}
+
+
+.pink-section p{
+    color: #D83519;
+}
+
+
+
