@@ -104,6 +104,15 @@ footer{
     padding-left: 15px;
 }
 
+.logo{ 
+    max-width: 110px;
+}
+
+.profile{
+    max-width: 40px;
+    padding-right: 6px;
+}
+
 footer img{
     padding-top: 50px;
     
@@ -118,10 +127,29 @@ footer img{
 
 .first-p{
     padding-bottom: 15px;
-    font-weight: 700;
+    font-weight: 500;
     color: #919496;
 }
 
 .company p{
     padding-bottom: 20px;
+}
+
+.icons img{
+    max-width: 44px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+}
+
+.bottom-text{
+    color: white;
+    display: flex;
+    padding-right: 20px;
+}
+
+.bottom-text p{
+    padding-right: 10px;
+    font-size: 6px;
+    padding-bottom: 50px;
+    color: #919496;
 }
