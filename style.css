@@ -101,4 +101,27 @@ header{
 footer{
     color: black;
     background-color: black;
+    padding-left: 15px;
+}
+
+footer img{
+    padding-top: 50px;
+    
+}
+
+.company{
+    color: white;
+    font-weight: 500;
+    padding-top: 30px;
+    padding-bottom: 8px;
+}
+
+.first-p{
+    padding-bottom: 15px;
+    font-weight: 700;
+    color: #919496;
+}
+
+.company p{
+    padding-bottom: 20px;
 }
